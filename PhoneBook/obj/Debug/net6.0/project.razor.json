@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "c:\\Users\\Baes\\Downloads\\Secure Prog Assignment\\PhoneBook_Starter_ASP.NET\\PhoneBook\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\Baes\\Downloads\\Secure Prog Assignment\\PhoneBook_Starter_ASP.NET\\PhoneBook\\PhoneBook.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "PhoneBook",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
